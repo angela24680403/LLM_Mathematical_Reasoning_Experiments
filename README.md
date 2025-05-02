@@ -3,7 +3,7 @@
 The paper on Pitfalls and Paths to Reproducibility in LLM Reasoning (https://arxiv.org/pdf/2504.07086) shows we could potentially increase the accuracy in LLM reasoning significantly just by changing the prompt format. This experiment investigates this further specifically with Mathematical LLMs such as DeepSeek-R1-Distill-Qwen1.5B. Focusing on mathematical reasoning initially helps reduce ambiguity in CoT evaluation as there are less nuanced expected answers. 
 
 We have broken down this project into two key aspects:
-	- Mathematical Chain of Thought Evaluation
+  - Mathematical Chain of Thought Evaluation
   - Prompt-tuning LLMs to solve mathematical tasks.
 
 ## Prompt Tuning
